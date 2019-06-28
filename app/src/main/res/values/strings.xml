@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Busca Livro</string>
+    <string name="title_activity_show_book_data">showBookData</string>
+</resources>
